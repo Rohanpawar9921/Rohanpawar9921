@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohanpawar9921
 - 👀 I’m interested in World of Technology 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Data structure and algorithms 
 - 💞️ I’m looking to collaborate on My learning 
 - 📫 How to reach me ...- Email - rohanpawar3307@gmail.com
 - 
